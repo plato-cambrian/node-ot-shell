@@ -1,0 +1,26 @@
+{
+  "name": "node-ot-shell",
+  "version": "0.0.1",
+  "description": "Node shell that spawns opentxs command line commands",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.4.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plato-cambrian/node-ot-shell.git"
+  },
+  "keywords": [
+    "opentransactions",
+    "nodejs",
+    "express",
+    "commandline"
+  ],
+  "author": "@therealplato",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
